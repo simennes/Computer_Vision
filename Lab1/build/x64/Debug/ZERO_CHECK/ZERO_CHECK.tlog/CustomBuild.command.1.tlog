@@ -1,0 +1,10 @@
+^C:\USERS\SIMEN\ONEDRIVE - NTNU\FYSMAT\INDMAT\24V\COMPUTER VISION\LAB1\BUILD\CMAKEFILES\64B1C318AFED54E943940688E0E35714\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Simen/OneDrive - NTNU/FYSMAT/INDMAT/24V/Computer Vision/Lab1" "-BC:/Users/Simen/OneDrive - NTNU/FYSMAT/INDMAT/24V/Computer Vision/Lab1/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Simen/OneDrive - NTNU/FYSMAT/INDMAT/24V/Computer Vision/Lab1/build/Lab1.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Simen\OneDrive - NTNU\FYSMAT\INDMAT\24V\Computer Vision\Lab1\build\CMakeFiles\64b1c318afed54e943940688e0e35714\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ACD3F120-30C5-3B70-B175-28EB85E37A65}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
