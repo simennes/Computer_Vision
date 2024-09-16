@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/build",
+  "command": "/usr/bin/c++  -I/home/simen/Documents/CV_project/ComputerVisionPoolTable/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/finalProject.dir/src/main.cpp.o -c /home/simen/Documents/CV_project/ComputerVisionPoolTable/src/main.cpp",
+  "file": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/src/main.cpp"
+},
+{
+  "directory": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/build",
+  "command": "/usr/bin/c++  -I/home/simen/Documents/CV_project/ComputerVisionPoolTable/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/finalProject.dir/src/TableDetector.cpp.o -c /home/simen/Documents/CV_project/ComputerVisionPoolTable/src/TableDetector.cpp",
+  "file": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/src/TableDetector.cpp"
+},
+{
+  "directory": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/build",
+  "command": "/usr/bin/c++  -I/home/simen/Documents/CV_project/ComputerVisionPoolTable/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/finalProject.dir/src/BallDetector.cpp.o -c /home/simen/Documents/CV_project/ComputerVisionPoolTable/src/BallDetector.cpp",
+  "file": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/src/BallDetector.cpp"
+},
+{
+  "directory": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/build",
+  "command": "/usr/bin/c++  -I/home/simen/Documents/CV_project/ComputerVisionPoolTable/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/finalProject.dir/src/BallTracker.cpp.o -c /home/simen/Documents/CV_project/ComputerVisionPoolTable/src/BallTracker.cpp",
+  "file": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/src/BallTracker.cpp"
+},
+{
+  "directory": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/build",
+  "command": "/usr/bin/c++  -I/home/simen/Documents/CV_project/ComputerVisionPoolTable/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/finalProject.dir/src/MeanAveragePrecision.cpp.o -c /home/simen/Documents/CV_project/ComputerVisionPoolTable/src/MeanAveragePrecision.cpp",
+  "file": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/src/MeanAveragePrecision.cpp"
+},
+{
+  "directory": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/build",
+  "command": "/usr/bin/c++  -I/home/simen/Documents/CV_project/ComputerVisionPoolTable/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/finalProject.dir/src/HelperFunctions.cpp.o -c /home/simen/Documents/CV_project/ComputerVisionPoolTable/src/HelperFunctions.cpp",
+  "file": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/src/HelperFunctions.cpp"
+},
+{
+  "directory": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/build",
+  "command": "/usr/bin/c++  -I/home/simen/Documents/CV_project/ComputerVisionPoolTable/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/finalProject.dir/src/TopViewVisual.cpp.o -c /home/simen/Documents/CV_project/ComputerVisionPoolTable/src/TopViewVisual.cpp",
+  "file": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/src/TopViewVisual.cpp"
+},
+{
+  "directory": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/build",
+  "command": "/usr/bin/c++  -I/home/simen/Documents/CV_project/ComputerVisionPoolTable/include -isystem /usr/local/include/opencv4 -g -o CMakeFiles/finalProject.dir/src/MeanIntersectionOverUnion.cpp.o -c /home/simen/Documents/CV_project/ComputerVisionPoolTable/src/MeanIntersectionOverUnion.cpp",
+  "file": "/home/simen/Documents/CV_project/ComputerVisionPoolTable/src/MeanIntersectionOverUnion.cpp"
+}
+]
