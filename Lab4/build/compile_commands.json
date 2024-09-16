@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/simen/Documents/Labs/Lab4/build",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/Task.dir/Task1.cpp.o -c /home/simen/Documents/Labs/Lab4/Task1.cpp",
+  "file": "/home/simen/Documents/Labs/Lab4/Task1.cpp"
+}
+]

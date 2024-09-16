@@ -1,0 +1,3 @@
+/home/simen/Documents/Labs/Lab4/CMakeFiles/Task.dir
+/home/simen/Documents/Labs/Lab4/CMakeFiles/edit_cache.dir
+/home/simen/Documents/Labs/Lab4/CMakeFiles/rebuild_cache.dir
